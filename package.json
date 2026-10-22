@@ -1,0 +1,9 @@
+{
+  "name": "hyperos4-interactive-simulation",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Dependency-free mobile web simulation inspired by HyperOS 4",
+  "scripts": {
+    "start": "python3 -m http.server 4173"
+  }
+}
